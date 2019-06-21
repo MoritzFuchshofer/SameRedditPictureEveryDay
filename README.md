@@ -35,4 +35,4 @@ path = ""
 
 ## Automation
 To automate this script, simply move it to a server and create a cronjob. 
-
+e.g. 30 16 * * * /usr/bin/python3.6 /root/python/SamePicEveryDay/poster.py
